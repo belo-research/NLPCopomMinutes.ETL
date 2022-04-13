@@ -15,3 +15,12 @@ The Topic analysis uses machine learning methods to classify discourse into disc
 Inside your environment (conda, venv, etc):
 
 pip install -r requirements.txt
+
+## How to run
+Folder 'ETL' contains the data downloader to get the dat aand clean it.
+Folder 'Data' contains the raw data .
+Folder 'Transformed data' contains the data ready to create the vizualiations.
+Folder 'Data transformation' contains the code with the parsers for sentiment analysis and topic analysis, and the detailed description step by step.
+
+## Link to dashboard
+https://observablehq.com/d/e9caed123eaf963c
